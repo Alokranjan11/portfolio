@@ -33,7 +33,7 @@
                 </div>
                 <div class="subject">
                     <h3 id="subjectItem">Reactjs</h3>
-                    <h3>30%</h3>
+                    <h3>50%</h3>
                 </div>
                 <div class="skillValue">
                     <div id="react" class="skillValueInPer"></div>
@@ -53,7 +53,7 @@
                     <div id="html" class="skillValueInPer"></div>
                 </div>
                 <div class="subject">
-                    <h3 id="subjectItem">Github</h3>
+                    <h3 id="subjectItem">Git</h3>
                     <h3>30%</h3>
                 </div>
                 <div class="skillValue">
@@ -133,7 +133,7 @@ export default {
     width: 50%;
 }
 #react {
-    width: 30%;
+    width: 50%;
 }
 #css {
     width: 50%;

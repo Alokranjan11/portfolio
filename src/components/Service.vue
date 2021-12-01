@@ -10,6 +10,7 @@
             <span>i</span>
             <span>c</span>
             <span>e</span>
+            <span>s</span>
             <h5>What i Provide</h5>
         </div>
         <div class="work">

@@ -5,9 +5,6 @@
         <!-- <a href="https://www.instagram.com/raj.alok07/"><i class="fab fa-instagram"></i></a> -->
         <!-- <a href="https://www.facebook.com/profile.php?id=100015349681162"><i class="fab fa-facebook"></i></a> -->
     </div>
-    <div class="created">
-        <span>Create by Alok Ranjan</span>
-    </div>
 </template>
 <script>
 export default {
@@ -19,7 +16,6 @@ export default {
 </script>
 <style scoped>
 .footer {
-    background-color: #ffff;
     border-top: 2px solid rgb(243, 240, 240);
     background-color: #141518;
     padding: 20px 5px;
@@ -34,9 +30,6 @@ export default {
     color: black;
     color: #ffff;
     cursor: pointer;
-}
-.created{
-    color: #ffff;
 }
 @media only screen and (max-width: 350px) {
     .footer {

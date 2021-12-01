@@ -33,13 +33,13 @@
                     <span @click="closeSideBar()">about</span>
                 </router-link>
                 <router-link style="text-decoration: none" to="/skill">
-                    <span @click="closeSideBar()">skill</span>
+                    <span @click="closeSideBar()">skills</span>
                 </router-link>
                 <router-link style="text-decoration: none" to="/service">
-                    <span @click="closeSideBar()">service</span>
+                    <span @click="closeSideBar()">services</span>
                 </router-link>
                 <router-link style="text-decoration: none" to="/project">
-                    <span @click="closeSideBar()">project</span>
+                    <span @click="closeSideBar()">projects</span>
                 </router-link>
             </div>
         </RightSideBar>

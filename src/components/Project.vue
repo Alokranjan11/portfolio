@@ -31,10 +31,16 @@ export default {
         return {
             project: [
                 {
+                    id: 12,
+                    name: "Music Player",
+                    link: "https://github.com/Alokranjan11/music-player",
+                    para: "Developed a music player application in which user can play any music of his choice by selecting from te list.User can also minimise and maximise the playing window using react.js.",
+                },
+                {
                     id: 11,
                     name: "Rent Management",
                     link: "https://github.com/Alokranjan11/Rent-management",
-                    para: "Developed a rent management apps which help landlords to maintains the rent related records for the different months.",
+                    para: "Developed a rent management apps which help landlords to maintains the rent related records for the different months using vue.js.",
                 },
 
                 {
@@ -64,13 +70,13 @@ export default {
                 {
                     id: 5,
                     name: "Instagram-Clone",
-                    para: "Developed an instagram clone in which user can view all the post and like and comment on the post.Also there in profile and chat section in this application .There is also a login and signup page for the same.",
+                    para: "Developed an instagram clone in which user can view all the post and like and comment on the post.Also there in profile and chat section in this application .There is also a login and signup page for the same using vue.js.",
                     link: "https://github.com/Alokranjan11/instagram-clone",
                 },
                 {
                     id: 6,
                     name: "E-commerce-App",
-                    para: "Developed a shoping  cart application in which user can shop for the prouct and add it to the cart and remove from the cart and can increase number of item.Total amount are also calculated based n added item.",
+                    para: "Developed a shoping  cart application in which user can shop for the prouct and add it to the cart and remove from the cart and can increase number of item.Total amount are also calculated based on added item using vue.js.",
                     link: "https://github.com/Alokranjan11/e-commerce-App",
                 },
                 {
@@ -95,7 +101,7 @@ export default {
                     id: 10,
                     name: "Portfolio",
                     para: "Created my Portfolio using css and vue.js",
-                    link: "",
+                    link: "https://github.com/Alokranjan11/portfolio",
                 },
             ],
         };
